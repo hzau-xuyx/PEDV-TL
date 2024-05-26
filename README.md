@@ -13,4 +13,4 @@ pip install git+https://github.com/bp-kelley/descriptastorus
 pip install chemprop
 ```
 
-具体可访问Chemprop项目：https://github.com/chemprop/chemprop。
+具体可访问**Chemprop**项目：https://github.com/chemprop/chemprop。
