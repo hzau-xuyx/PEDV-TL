@@ -3,4 +3,5 @@
 
 文件包括源代码、数据集、预测结果等；
 
-模型修改自**COVIDVS**项目：https://github.com/pkuwangsw/COVIDVS，感谢！使用方法可访问该项目。
+模型修改自**COVIDVS**项目：https://github.com/pkuwangsw/COVIDVS
+感谢！使用方法可访问该项目。
